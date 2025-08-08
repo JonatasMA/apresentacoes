@@ -1,0 +1,1 @@
+Conteúdo retirado do [vídeo do canal Core Dumped](https://www.youtube.com/watch?v=XJC5WB2Bwrc)

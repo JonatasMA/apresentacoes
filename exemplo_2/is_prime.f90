@@ -1,4 +1,4 @@
-function is_prime(n) result(res)
+function is_prime(n) result(res) bind(C, name="is_prime")
     integer, intent(in) :: n
     integer :: res
     integer :: i
